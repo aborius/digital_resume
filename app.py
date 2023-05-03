@@ -21,6 +21,7 @@ Data Scientist @ Deloitte Risk Advisory
 EMAIL = "alex.borio@gmail.com"
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/alex-borio-8542115b/",
+    "GitHub": "https://github.com/borio93",
     "Email": "mailto:" + EMAIL,
 }
 
