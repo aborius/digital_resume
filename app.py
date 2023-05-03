@@ -100,7 +100,7 @@ st.subheader("Work History")
 
 # --- JOB 1
 st.write("**Data Scientist | Deloitte**")
-st.write("02/2022 - Present, Milan")
+st.write("02/2022 - Present")
 st.write(
     """
 Activities related to projects aimed at Financial Services, with a strong focus on Business Architecture using data analysis and data
@@ -108,7 +108,7 @@ modeling technologies with particular attention to IT issues on Risk Management 
 Governance and Reporting.
 Key experiences:
 - Code migration from SAS (EG 9.3) / R to Python / BigQuery / PySpark
-- Machine learning activities (e.g. NLP algorithm to estimate KPI and KRI on the four fundamental pillars of Data Governance: Data Dictionary, Data Quality, Data Lineage and Business Glossary
+- Machine learning activities (e.g. NLP algorithm to estimate KPI and KRI on the four fundamental pillars of Data Governance: Data Dictionary, Data Quality, Data Lineage and Business Glossary)
 - Development of a Data Governance framework to support the II level Function in assessing the degree of maturity and the I level Functions in monitoring the Data Governance safeguards to protect the data under their responsibility, with implementation of the dashboard for monitoring the various indicators calculated
 - Development of Dashboards (e.g. monitor the RAF indicator and the underlying indices previously calculated with NLP and Networking Intelligence algorithms)
 - Development of an unsupervised algorithm (k-means) in order to create a cluster of equity portfolios (ESG) to be included in an expected return calculation model
@@ -119,7 +119,7 @@ Key experiences:
 # --- JOB 2
 st.write('\n')
 st.write("**Data Analyst | Accenture**")
-st.write("05/2020 - 02/2022, Turin")
+st.write("05/2020 - 02/2022")
 st.write(
     """
 Activities related to projects aimed at Financial Services, with a strong focus on Financial Risk Management and Data Governance.
@@ -144,7 +144,7 @@ st.subheader("Education")
 
 # --- EDU 1
 st.write("**Data Engineer | Modis**")
-st.write("03/2020 - 05/2020, Turin")
+st.write("03/2020 - 05/2020")
 st.write(
     """
 Intensive training academy (full-time) based on practical and theoretical learning of the main software used by the figure of the Data Engineer and ETL Developer.
@@ -159,7 +159,7 @@ Academy that allowed me to increase my knowledge in the statistical/IT field.
 
 # --- EDU 2
 st.write("**Master's degree, Statistics | Università degli Studi di Torino**")
-st.write("09/2017 - 03/2020, Turin")
+st.write("09/2017 - 03/2020")
 st.write(
     """
 The MSc in Statistics has a particular focus on modern computationally-intensive theory and methods. 
@@ -169,7 +169,7 @@ Main disciplines: Business Analytics, Corporate Finance and Strategy, Data Model
 
 # --- EDU 3
 st.write("**Bachelor's degree, Statistics and Economics | Università degli Studi di Torino**")
-st.write("09/2013 - 03/2017, Turin")
+st.write("09/2013 - 03/2017")
 st.write(
     """
 The Bachelor's Degree in Political and Economic Sciences has a particular focus on policy analysis and political economy. 
