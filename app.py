@@ -79,7 +79,7 @@ st.write("---")
 
 # --- SKILLS ---
 st.write('\n')
-st.subheader("Hard Skills")
+st.subheader("Key Skills")
 st.write(
     """
 - Programming: Python (NumPy - Pandas - Scikit-learn - Matplot -Seaborn), SQL, VBA
@@ -96,7 +96,7 @@ st.write("---")
 
 # --- WORK HISTORY ---
 st.write('\n')
-st.subheader("Work History")
+st.subheader("Work Experiences")
 
 # --- JOB 1
 st.write("**Senior Data Scientist | Deloitte**")
@@ -107,8 +107,8 @@ Activities related to projects aimed at Financial Services, with a strong focus 
 modeling technologies with particular attention to IT issues on Risk Management engagements, Data Management, Data
 Governance and Reporting.
 Key experiences:
-- Machine Learning & Data Visualization activities
 - Code migration (e.g. from SAS / R to Python / BigQuery / PySpark)
+- Machine Learning & Data Visualization activities
 - Credit Risk Analysis & Modelling
 """
 )
@@ -153,7 +153,7 @@ st.write("---")
 
 # --- EDUCATION ---
 st.write('\n')
-st.subheader("Education")
+st.subheader("Education & Qualifications")
 
 # --- EDU 1
 st.write("**Data Engineer | Modis**")
