@@ -16,7 +16,7 @@ PAGE_TITLE = "Digital Resume | Alex Borio"
 PAGE_ICON = ":wave:" #"random"
 NAME = "Alex Borio"
 DESCRIPTION = """
-Data Scientist @ Deloitte Risk Advisory
+Senior Data Scientist @ Deloitte Risk Advisory
 """
 EMAIL = "alex.borio@gmail.com"
 SOCIAL_MEDIA = {
@@ -65,7 +65,7 @@ st.write('\n')
 st.subheader("Experience & Qualifications")
 st.write(
     """
-- ✔️ 3 Years experience extracting actionable insights from data in banking sector
+- ✔️ 3+ Years experience extracting actionable insights from data in banking sector
 - ✔️ Strong hands on experience and knowledge in Python, Power BI and Excel
 - ✔️ Good understanding of statistical principles and their respective applications
 - ✔️ Excellent team-player and displaying strong sense of initiative on tasks
@@ -84,7 +84,6 @@ st.write(
     """
 - Programming: Python (NumPy - Pandas - Scikit-learn - Matplot -Seaborn), SQL, VBA
 - Data Visualization: Power BI, Tableau, MS Excel
-- Modeling: Logistic regression, linear regression, decition trees
 - Databases: MySQL, Oracle, Teradata, Hadoop
 - Cloud Services: Google Cloud Platform, Amazon Web Services
 """
@@ -100,24 +99,39 @@ st.write('\n')
 st.subheader("Work History")
 
 # --- JOB 1
-st.write("**Data Scientist | Deloitte**")
-st.write("02/2022 - Present")
+st.write("**Senior Data Scientist | Deloitte**")
+st.write("06/2023 - Present")
 st.write(
     """
 Activities related to projects aimed at Financial Services, with a strong focus on Business Architecture using data analysis and data
 modeling technologies with particular attention to IT issues on Risk Management engagements, Data Management, Data
 Governance and Reporting.
 Key experiences:
-- Code migration from SAS (EG 9.3) / R to Python / BigQuery / PySpark
-- Machine learning activities (e.g. NLP algorithm to estimate KPI and KRI on the four fundamental pillars of Data Governance: Data Dictionary, Data Quality, Data Lineage and Business Glossary)
-- Development of a Data Governance framework to support the II level Function in assessing the degree of maturity and the I level Functions in monitoring the Data Governance safeguards to protect the data under their responsibility, with implementation of the dashboard for monitoring the various indicators calculated
-- Development of Dashboards (e.g. monitor the RAF indicator and the underlying indices previously calculated with NLP and Networking Intelligence algorithms)
-- Development of an unsupervised algorithm (k-means) in order to create a cluster of equity portfolios (ESG) to be included in an expected return calculation model
-- Development of a framework for the automatic maintenance of Data Lineage in a Cloud Environment for Data Governance Project
+- Machine Learning & Data Visualization activities
+- Code migration (e.g. from SAS / R to Python / BigQuery / PySpark)
+- Credit Risk Analysis & Modelling
 """
 )
 
+
 # --- JOB 2
+st.write("**Data Scientist | Deloitte**")
+st.write("02/2022 - 05/2023")
+st.write(
+    """
+Activities related to projects aimed at Financial Services, with a strong focus on Business Architecture using data analysis and data
+modeling technologies with particular attention to IT issues on Risk Management engagements, Data Management, Data
+Governance and Reporting.
+Key experiences:
+- Code migration (e.g. from SAS / R to Python / BigQuery / PySpark)
+- Machine Learning & Data Visualization activities (e.g. NLP algorithm to estimate KPI and KRI)
+- Credit Risk Analysis & Modelling
+- Implementations of Blockchain (Credit Process)
+- Advanced Analytics activities
+"""
+)
+
+# --- JOB 3
 st.write('\n')
 st.write("**Data Analyst | Accenture**")
 st.write("05/2020 - 02/2022")
@@ -125,12 +139,10 @@ st.write(
     """
 Activities related to projects aimed at Financial Services, with a strong focus on Financial Risk Management and Data Governance.
 Key experiences:
-- Statistical analysis on partitioned databases (Oracle / Teradata) to identify KPIs
-- Development of a dashboard to monitor the progress of the KIs, KPIs and KRIs
-- Creation of SQL scripts to perform back-end and UAT tests
-- Development of a framework for Data Masking (Informatica Power Center)
-- Statistical analysis on RDBS (Oracle / Teradata / Hadoop)
 - Advanced Analytics activities
+- Statistical analysis on RDBS & DBMS
+- Data Visualization activities
+- Data Masking activities
 """
 )
 
