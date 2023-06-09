@@ -148,6 +148,13 @@ li{
     padding-left: 2em;
 }
 
+.card--education{
+    border-left: 1px solid var(--mainBorderColor);
+    margin-top: 3em;
+    margin-bottom: 3em;
+    padding-left: 2em;
+}
+
 .line-break{
     background-color: var(--mainBorderColor);
     height: 1px;
@@ -177,6 +184,11 @@ li{
     }
 
     .card--work-history{
+        border-left: none;
+        padding-left: 0;
+    }
+
+    .card--education{
         border-left: none;
         padding-left: 0;
     }
