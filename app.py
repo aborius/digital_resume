@@ -109,7 +109,8 @@ Governance and Reporting.
 Key experiences:
 - Code migration (e.g. from SAS / R to Python / BigQuery / PySpark)
 - Machine Learning & Data Visualization activities
-- Credit Risk Analysis & Modelling
+- Credit Risk Analysis
+- Advanced Analytics activities
 """
 )
 
@@ -125,9 +126,10 @@ Governance and Reporting.
 Key experiences:
 - Code migration (e.g. from SAS / R to Python / BigQuery / PySpark)
 - Machine Learning & Data Visualization activities (e.g. NLP algorithm to estimate KPI and KRI)
-- Credit Risk Analysis & Modelling
+- Credit Risk Analysis
 - Implementations of Blockchain (Credit Process)
 - Advanced Analytics activities
+- Development of Data Governance frameworks
 """
 )
 
